@@ -10,16 +10,7 @@ Curiosity keeps me exploring new tools, ideas, and technologies. I mostly build 
 
 ## Tools and Technologies
 
-- React  
-- Tailwind CSS  
-- Laravel  
-- Node.js  
-- PHP  
-- PostgreSQL  
-- SQL  
-- Python  
-- JavaScript  
-- TypeScript  
+React • Tailwind CSS • Laravel • Node.js • PHP • PostgreSQL • SQL • Python • JavaScript • TypeScript
 
 ---
 
