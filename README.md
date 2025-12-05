@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello there !
 
-<!--
-**Renn-Amm/Renn-Amm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Aung Min Myat**, a fullstack and software developer based in Spain.  
+I build projects one after another because I enjoy finding real life and enterprise problems and creating solutions that work.
 
-Here are some ideas to get you started:
+My philosophy is simple: **Be curious.**  
+Curiosity keeps me exploring new tools, ideas, and technologies. I mostly build fullstack websites, and I am also interested in AI and work on bringing intelligent features into web apps and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tools and Technologies
+
+- React  
+- Tailwind CSS  
+- Laravel  
+- Node.js  
+- PHP  
+- PostgreSQL  
+- SQL  
+- Python  
+- JavaScript  
+- TypeScript  
+
+---
+
+## A bit more about me
+
+I enjoy campaign and story based videogames.  
+I like reading to get new ideas or learn new tools and technologies.  
+I study AI and ML because I want to enter the AI engineering field and build smarter systems.
+
+---
